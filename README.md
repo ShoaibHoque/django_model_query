@@ -38,7 +38,7 @@ python test_script.py
 ```
 ## Screenshots
 ### Returns a list of dictionaries
-<img src = "screenshots/Screenshot 2024-12-22 125258.png" alt="Upload Page" width = "600">
+<img src = "screenshots/query_output.png" alt="Upload Page" width = "600">
 
 ## Contact
 For any questions or feedback, please contact:
