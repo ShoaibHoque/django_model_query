@@ -19,7 +19,7 @@ def get_top_categories():
     result = [
         {
             "category_name": category.name,
-            "total_price": category.total_price,
+            "total_price": float(category.total_price),
             "product_count": category.product_count,
         }
         for category in categories
